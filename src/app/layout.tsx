@@ -9,9 +9,9 @@ const syne = Syne({
 });
 
 export const metadata: Metadata = {
-  title: "ONIMIX TECH | Engineering Intelligent Systems For The Future",
-  description: "AI • Automation • Cyber Infrastructure • Digital Evolution - ONIMIX TECH builds next-generation AI and innovation solutions.",
-  keywords: "AI, Automation, Cybersecurity, Web Development, Cloud Infrastructure, Data Intelligence",
+  title: "ONIMIX | Stream Anime, Movies & Series Online",
+  description: "Watch your favorite anime, movies, and series online. ONIMIX is your ultimate streaming destination with thousands of titles.",
+  keywords: "anime, streaming, movies, series, watch online, ONIMIX, animation",
 };
 
 export default function RootLayout({
