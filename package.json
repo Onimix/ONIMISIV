@@ -1,7 +1,8 @@
 {
-  "name": "nextjs-template",
+  "name": "onimisiv",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://onimix.github.io/ONIMISIV/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
